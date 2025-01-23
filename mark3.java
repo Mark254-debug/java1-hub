@@ -1,6 +1,6 @@
 /*
-Name: Johana Kimutai Kiprono 
-Reg No: CT101/G/19005/23
+Name: MARK MAINA
+Reg No: CT101/G/19284/23
 Date: 23/01/2025
 Hello world Java Code
 Assignment 1
